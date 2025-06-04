@@ -5,5 +5,4 @@ Program outputs:
 - a T\<arbitrary state\> using gate teleportation
 
 ### How to run:
-Open the project with Visual Studio and run from magic_state.qs
-Note: Azure Quantum Development Kit (QDK) extension for Visual Studio Code is required
+Open the project with Visual Studio and run from magic_state.qs - Azure Quantum Development Kit (QDK) extension for Visual Studio Code is required
